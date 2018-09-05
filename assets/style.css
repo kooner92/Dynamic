@@ -1,0 +1,13 @@
+.container {
+    max-width: 960px;
+    background-color: lightgray;
+    margin: auto;
+}
+
+#header {
+    color: royalblue;
+}
+
+#buttons {
+    margin: auto;
+}
